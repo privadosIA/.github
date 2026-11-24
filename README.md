@@ -1,6 +1,6 @@
 # privadosIA
 
-Proyecto personal enfocado en herramientas de generación multimedia 100 % locales, sin depender de servicios ni APIs de terceros.
+Proyecto personal enfocado en herramientas de generación multimedia 100 % locales.
 
 ## mediaOrquestator
 
@@ -19,7 +19,7 @@ Un estudio generativo que corre en tu propia máquina para crear y gestionar **i
 
 # privadosIA (English)
 
-A personal initiative focused on 100% local generative media tools running on self-hosted hardware, with no third-party APIs.
+A personal initiative focused on 100% local generative media tools running on self-hosted hardware.
 
 ## mediaOrquestator
 
